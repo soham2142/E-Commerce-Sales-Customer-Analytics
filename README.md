@@ -33,22 +33,22 @@ This project analyzes e-commerce transactions to understand revenue trends, cust
 ## Dashboard Screenshots
 
 ### Data Overview
-![Data Overview](screenshots/01_data_overview.png)
+![Data Overview](E-Commerce-Sales-Customer-Analytics-Full/E-Commerce-Sales-Customer-Analytics/screenshots/01_data_overview.png)
 
 ### Revenue Trend
-![Revenue Trend](screenshots/02_revenue_trend.png)
+![Revenue Trend](E-Commerce-Sales-Customer-Analytics-Full/E-Commerce-Sales-Customer-Analytics/screenshots/02_revenue_trend.png)
 
 ### Product Performance
-![Product Performance](screenshots/03_product_performance.png)
+![Product Performance](E-Commerce-Sales-Customer-Analytics-Full/E-Commerce-Sales-Customer-Analytics/screenshots/03_product_performance.png)
 
 ### Customer Analytics
-![Customer Analytics](screenshots/04_customer_analytics.png)
+![Customer Analytics](E-Commerce-Sales-Customer-Analytics-Full/E-Commerce-Sales-Customer-Analytics/screenshots/04_customer_analytics.png)
 
 ### Sales Channel Analysis
-![Sales Channel Analysis](screenshots/05_sales_channel_analysis.png)
+![Sales Channel Analysis](E-Commerce-Sales-Customer-Analytics-Full/E-Commerce-Sales-Customer-Analytics/screenshots/05_sales_channel_analysis.png)
 
 ### Dashboard & Insights
-![Dashboard & Insights](screenshots/06_dashboard_insights.png)
+![Dashboard Insights](E-Commerce-Sales-Customer-Analytics-Full/E-Commerce-Sales-Customer-Analytics/screenshots/06_dashboard_insights.png)
 
 ## Author
 Soham Sutar
